@@ -40,16 +40,16 @@ assignments in Autograder.
 
 2. In the "Courses" menu select “Join a course”. Available courses will be listed. ![\[screenshot\]](images/reg2_2_4.png)
 
-3. Find the course “DATPREP19” and click "Enroll".
+3. Find the course “UiS Preparatory Course” and click "Enroll".
 
 4. Read through and accept the terms. You will then be invited to the
-   organization [uis-datprep-19](http://www.github.com/uis-datprep-19) on GitHub.
+   organization [uis-prepcourse-2019](https://github.com/uis-prepcourse-2019) on GitHub.
 
 5. An invitation will be sent to the email address linked to your GitHub
    account. Accept the invitation using the received email. ![\[screenshot\]](images/reg2_5.png)
 
 6. Wait for the teaching staff to verify your Autograder-registration.
 
-7. You will get your own repository in the organization "uis-datprep-19" on GitHub
+7. You will get your own repository in the organization "uis-prepcourse-2019" on GitHub
    after your registration is verified. You will also have access to the
    feedback pages for this course on Autograder. ![\[screenshot1\]](images/reg2_7a.png) ![\[screenshot2\]](images/reg2_7b.png)
