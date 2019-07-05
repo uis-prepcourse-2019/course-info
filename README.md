@@ -52,7 +52,16 @@ All the submission process should be completed using Github. If you are not fami
 
 ### Step 3: Setting up the coding environment 
 We recommend you to install anaconda and work on Jupyter notebook. If you are familiar with python programming, you can choose whatever tool that you want to use. However, the final submission should be the Jupyter notebook.
-* [Installation instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/environment.md#anaconda)
+
+#### Anaconda
+The core component to proceed with the course, Python3 and Jupyter notebook should be installed. There are various ways to set up the environment. However, we recommend you to use [Anaconda Distribution](https://www.anaconda.com/distribution/).
+
+#### Installation ([PDF](https://github.com/uis-prepcourse-test/course-info/blob/master/resources/jupyternotebook.pdf))
+1. Download Python 3 version from the Anaconda [website](https://www.anaconda.com/distribution/)
+    - The detailed version can be 3.6 or 3.7.
+1. Install on your local machine.
+1. All the necessary resources (e.g., Python) will be installed while installing Anaconda.
+
 
 ### Step 4: Coding and submission
 1. Open Jupyter notebook using Anaconda navigator that we installed in Step 3.
