@@ -22,7 +22,7 @@ This is an overview of the different exercises of this course. The chapters from
 ## How To Use
 ![Diagram](/images/preparatory-course-diagram.png)
 
-There are several steps to set up the environment.
+It might be complicated for the first time. Please read the instruction below carefully.
 ### Step 1: Registering to Autograder
 1. Make your Github account (if you already have you can pass this step)
 1. Register to [Autograder](https://ag3.ux.uis.no) using your Github account from step 1.
