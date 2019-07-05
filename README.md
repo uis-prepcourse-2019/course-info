@@ -49,6 +49,9 @@ All the submission process should be completed using Github. If you are not fami
 
 ### Step 3: Setting up the coding environment 
 We recommend you to install anaconda and work on Jupyter notebook. If you are familiar with python programming, you can choose whatever tool that you want to use. However, the final submission should be the Jupyter notebook.
+* [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/environment.md#anaconda)
+
+### Step 4: Coding and submission
 1. Open Jupyter notebook using Anaconda navigator.
 1. Find the assignment file (exercise.ipynb) from the folder that we set up in Step 2.
 1. Complete the code and save.
@@ -58,10 +61,9 @@ We recommend you to install anaconda and work on Jupyter notebook. If you are fa
     1. `git push labs`
 1. Check your scroe from the Autograder page.
 1. Repeat above steps, every time you want to submit.
-* [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/environment.md#anaconda)
 
 
-Once you complete the all the enviroment setting, you can see how submission process works in this [Video tutorial](https://vimeo.com/346381570).
+The submission process can be found in this [Video tutorial](https://vimeo.com/346381570).
 
 
 ## Getting help
