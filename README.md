@@ -71,5 +71,4 @@ The submission process can be found in this [Video tutorial](https://vimeo.com/3
 
 ## Getting help
 * We recommend you to use the [Discussion page](https://github.com/orgs/uis-prepcourse-2019/teams/discussion) instead of sending an email. This will help other students to find a similar question regarding the environment setup.
-* For the questions directly related to the test will not be answered. However, if the description is considered ambiguous, you can ask about that to have a more precise explanation.
-* Most questions can be helped by searching on the internet. If you are not familiar with Python at all, we recommend you to taks some online Python tutorial course(e.g., [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html), [w3schools](https://www.w3schools.com/python/default.asp)).
+* Most questions can be helped by searching on the internet. If you are not familiar with Python at all, we recommend you to take some online Python tutorial course(e.g., [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html), [w3schools](https://www.w3schools.com/python/default.asp)).
