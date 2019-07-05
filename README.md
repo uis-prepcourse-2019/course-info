@@ -55,7 +55,7 @@ We recommend you to install anaconda and work on Jupyter notebook. If you are fa
 * [Installation instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/environment.md#anaconda)
 
 ### Step 4: Coding and submission
-1. Open Jupyter notebook using Anaconda navigator.
+1. Open Jupyter notebook using Anaconda navigator that we installed in Step 3.
 1. Find the assignment file (exercise.ipynb) from the folder that we set up in Step 2.
 1. Complete the code and save.
 1. In terminal (the same directory as Step 2), type the following git commands.
