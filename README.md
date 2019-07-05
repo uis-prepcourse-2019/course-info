@@ -41,14 +41,23 @@ All the submission process should be completed using Github. If you are not fami
 1. In terminal, first move to your working directory (e.g., `cd Downloads`)
 1. Then, type `git clone https://github.com/uis-dat110-fall19/assignments.git`
 1. Move to that directory `cd assignments`
-1. Connect it to your private repository `git remote add labs https://github.com/uis-dat550-spring19/username-labs` 
+1. Connect it to your private repository `git remote add labs https://github.com/uis-prepcourse-2019/username-labs` 
 1. Push the assignments file to your repository `git push labs`
 1. Check if you can find the file fromte the browesr (https://github.com/uis-prepcourse-2019/username-labs).
 * [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/github.md)
 
 
 ### Step 3: Setting up the coding environment 
-We recommend you to install anaconda and work on Jupyternotebook. If you are familiar with python programming, you can choose whatever tool that you want to use. However, the final submission should be the Jupyter notebook.
+We recommend you to install anaconda and work on Jupyter notebook. If you are familiar with python programming, you can choose whatever tool that you want to use. However, the final submission should be the Jupyter notebook.
+1. Open Jupyter notebook using Anaconda navigator.
+1. Find the assignment file (exercise.ipynb) from the folder that we set up in Step 2.
+1. Complete the code and save.
+1. In terminal (the same directory as Step 2), type the following git commands.
+    1. `git add .`
+    1. `git commit -m "any message"`
+    1. `git push labs`
+1. Check your scroe from the Autograder page.
+1. Repeat above steps, every time you want to submit.
 * [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/environment.md#anaconda)
 
 
