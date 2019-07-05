@@ -10,13 +10,13 @@ Your task is completing the skeleton code that we offer.
 ## Lab Overview
 This is an overview of the different exercises of this course. The chapters from the recommended reading section are from Jake VanderPlas' [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html). It is also recommended to read chapters 2-8 before starting to solve the exercises.
 
-| Lab | Assignments                                                                                              | Grading   | Recommended reading                                                                    | Topic |
-| :-: | -------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------- |:-:|
-|  1  | [Exercise 1](https://github.com/uis-prepcourse-test/assignments/tree/master/exercise1) | Pass/Fail | [Ch. 9](https://jakevdp.github.io/WhirlwindTourOfPython/08-defining-functions.html)| Basic mathematical operation |
-|  2  | [Exercise 2](https://github.com/uis-prepcourse-test/assignments/tree/master/exercise2) | Pass/Fail | [Ch. 9](https://jakevdp.github.io/WhirlwindTourOfPython/08-defining-functions.html)| Advanced mathematical operation |
-|  3  | [Exercise 3](https://github.com/uis-prepcourse-test/assignments/tree/master/exercise3)   | Pass/Fail | [w3schools - Classes and Objects](https://www.w3schools.com/python/python_classes.asp) | Basic data structure |
-|  4  | [Exercise 4](https://github.com/uis-prepcourse-test/assignments)                                | Pass/Fail | [w3schools - Classes and Objects](https://www.w3schools.com/python/python_classes.asp) | Basic usage of class |
-|  5  | [Exercise 5](https://github.com/uis-prepcourse-test/assignments)                                  | Pass/Fail | [Ch. 10](https://jakevdp.github.io/WhirlwindTourOfPython/09-errors-and-exceptions.html)| File I/O |
+| Lab | Assignments                                                                                              |  Recommended reading                                                                    | Topic |
+| :-: | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |:-:|
+|  1  | [Task 1](https://github.com/uis-prepcourse-2019/assignments/blob/master/exercise/exercise.ipynb) |  [Ch. 9](https://jakevdp.github.io/WhirlwindTourOfPython/08-defining-functions.html)| Basic mathematical operation |
+|  2  | [Task 2](https://github.com/uis-prepcourse-2019/assignments/blob/master/exercise/exercise.ipynb) |  [Ch. 9](https://jakevdp.github.io/WhirlwindTourOfPython/08-defining-functions.html)| Advanced mathematical operation |
+|  3  | [Task 3](https://github.com/uis-prepcourse-2019/assignments/blob/master/exercise/exercise.ipynb)   |  [w3schools - Classes and Objects](https://www.w3schools.com/python/python_classes.asp) | Basic data structure |
+|  4  | [Task 4](https://github.com/uis-prepcourse-2019/assignments/blob/master/exercise/exercise.ipynb)                                |  [w3schools - Classes and Objects](https://www.w3schools.com/python/python_classes.asp) | Basic usage of class |
+|  5  | [Task 5](https://github.com/uis-prepcourse-2019/assignments/blob/master/exercise/exercise.ipynb)                                  |  [Ch. 10](https://jakevdp.github.io/WhirlwindTourOfPython/09-errors-and-exceptions.html)| File I/O |
 
 
 ## How To Use
