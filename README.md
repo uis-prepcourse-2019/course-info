@@ -29,7 +29,7 @@ There are several steps to set up the environment.
 1. Find the course() from the [Autograder website](https://ag3.ux.uis.no/app/student/enroll), and enroll the course
 1. Wait until the admin approves your request.
 * [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/autograder-registration.md)
-* [Video Tutorial(TBD)]()
+
 ### Step 2: Setting up the Github environment
 ![Diagram](/images/github.png)
 
@@ -45,12 +45,15 @@ All the submission process should be completed using Github. If you are not fami
 1. Push the assignments file to your repository `git push labs`
 1. Check if you can find the file fromte the browesr (https://github.com/uis-prepcourse-2019/username-labs).
 * [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/github.md)
-* [Video Tutorial(TBD)]()
+
 
 ### Step 3: Setting up the coding environment 
 We recommend you to install anaconda and work on Jupyternotebook. If you are familiar with python programming, you can choose whatever tool that you want to use. However, the final submission should be the Jupyter notebook.
 * [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/environment.md#anaconda)
-* [Video Tutorial(TBD)]()
+
+
+Once you complete the all the enviroment setting, you can see how submission process works in this [Video tutorial](https://vimeo.com/346381570).
+
 
 ## Getting help
 * We recommend you to use the [Discussion page](https://github.com/orgs/uis-prepcourse-2019/teams/discussion) instead of sending an email. This will help other students to find a similar question regarding the environment setup.
