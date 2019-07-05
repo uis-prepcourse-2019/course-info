@@ -42,7 +42,7 @@ All the submission process should be completed using Github. If you are not fami
 `https://github.com/uis-prepcourse-2019/username-labs`
 1. Now, you need to connect the repository with your local machine(e.g., laptop)
 1. In terminal, first move to your working directory (e.g., `cd Downloads`)
-1. Then, type `git clone https://github.com/uis-dat110-fall19/assignments.git`
+1. Then, type `git clone https://github.com/uis-prepcourse-2019/assignments.git`
 1. Move to that directory `cd assignments`
 1. Connect it to your private repository `git remote add labs https://github.com/uis-prepcourse-2019/username-labs` 
 1. Push the assignments file to your repository `git push labs`
