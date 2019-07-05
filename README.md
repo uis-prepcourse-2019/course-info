@@ -34,6 +34,9 @@ There are several steps to set up the environment.
 ![Diagram](/images/github.png)
 
 All the submission process should be completed using Github. If you are not familiar with Github, please check this [link](https://guides.github.com/introduction/git-handbook/). 
+
+* [Installation instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/github.md)
+
 1. Once admin approves your enrollment request, you will receive an email (The email address is used for the Github account).
 1. The url of your repository will may following pattern.
 `https://github.com/uis-prepcourse-2019/username-labs`
@@ -44,7 +47,7 @@ All the submission process should be completed using Github. If you are not fami
 1. Connect it to your private repository `git remote add labs https://github.com/uis-prepcourse-2019/username-labs` 
 1. Push the assignments file to your repository `git push labs`
 1. Check if you can find the file fromte the browesr (https://github.com/uis-prepcourse-2019/username-labs).
-* [Detailed Instruction](https://github.com/uis-prepcourse-2019/course-info/blob/master/github.md)
+
 
 
 ### Step 3: Setting up the coding environment 
