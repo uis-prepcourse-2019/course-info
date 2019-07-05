@@ -3,7 +3,7 @@
 ## Course information
 The purpose of the preparatory course is helping students to be ready for the necessary programming language for proceeding the course in UiS. Additionally, students can pre-experience several tools such as Autograder and Github so that they can be familiar before they start their actual class.
 ## Main task
-Your task is completing the skeleton code that we offer.
+Your task is completing the skeleton code that we offer. If you complete the function, our Autograder system will call the function with a different parameter to test the different cases. Therefore you should not change the function name. It is important to consider the exceptional case to pass all the test.
 
 ![SampleCode](/images/sample-code.png)
 
