@@ -71,7 +71,7 @@ The core component to proceed with the course, Python3 and Jupyter notebook shou
     1. `git add .`
     1. `git commit -m "any message"`
     1. `git push labs`
-1. Check your scroe from the Autograder page.
+1. Check your score from the Autograder page.
 1. Repeat above steps, every time you want to submit.
 
 
