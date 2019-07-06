@@ -56,7 +56,7 @@ We recommend you to install anaconda and work on Jupyter notebook. If you are fa
 #### Anaconda
 The core component to proceed with the course, Python3 and Jupyter notebook should be installed. There are various ways to set up the environment. However, we recommend you to use [Anaconda Distribution](https://www.anaconda.com/distribution/).
 
-#### Installation ([PDF](https://github.com/uis-prepcourse-2019/course-info/blob/master/resources/jupyternotebook.pdf))
+#### Installation ([Windows](https://github.com/uis-prepcourse-2019/course-info/blob/master/resources/jupyternotebook2.pdf), [MacOS](https://github.com/uis-prepcourse-2019/course-info/blob/master/resources/jupyternotebook.pdf))
 1. Download Python 3 version from the Anaconda [website](https://www.anaconda.com/distribution/)
     - The detailed version can be 3.6 or 3.7.
 1. Install on your local machine.
